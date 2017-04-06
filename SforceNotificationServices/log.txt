@@ -1,0 +1,21 @@
+Multiple notifications:
+sObject0
+04l6F000024Iz5ZQAS
+00Q6F000013j4T9UAI
+2017-04-03T14:16:38.000Z
+Boxer
+Unsubscribe
+
+sObject1
+04l6F000024Iz5aQAC
+00Q6F000013j4TAUAY
+2017-04-03T14:16:38.000Z
+Cotton
+Unsubscribe
+
+Serialized messagesData:
+O:8:"stdClass":6:{s:14:"OrganizationId";s:18:"00D6F000001gClwUAE";s:8:"ActionId";s:18:"04k6F000000GtEmQAK";s:9:"SessionId";N;s:13:"EnterpriseUrl";s:93:"
+https://tatyana769-art-sf-mmm-dev-ed.my.salesforce.com/services/Soap/c/39.0/00D6F000001gClw
+";s:10:"PartnerUrl";s:93:"
+https://tatyana769-art-sf-mmm-dev-ed.my.salesforce.com/services/Soap/u/39.0/00D6F000001gClw
+";s:12:"Notification";a:2:{i:0;O:8:"stdClass":2:{s:2:"Id";s:18:"04l6F000024Iz5ZQAS";s:7:"sObject";O:8:"stdClass":4:{s:2:"Id";s:18:"00Q6F000013j4T9UAI";s:16:"LastModifiedDate";s:24:"2017-04-03T14:16:38.000Z";s:8:"LastName";s:5:"Boxer";s:6:"Status";s:11:"Unsubscribe";}}i:1;O:8:"stdClass":2:{s:2:"Id";s:18:"04l6F000024Iz5aQAC";s:7:"sObject";O:8:"stdClass":4:{s:2:"Id";s:18:"00Q6F000013j4TAUAY";s:16:"LastModifiedDate";s:24:"2017-04-03T14:16:38.000Z";s:8:"LastName";s:6:"Cotton";s:6:"Status";s:11:"Unsubscribe";}}}}
